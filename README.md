@@ -4,7 +4,7 @@ This Code lets you create a Website for all your favorite movies by displaying t
 ## Content
 * **media.py**: In this file, the class Movie is defined
 * **entertainment_center.py**: In this file, the instances of the class Movie are created
-* **fresh_tomatoes.py**: In this file, the HTML output file is created
+* **fresh_tomatoes.py**: In this file, the HTML output file is created (_This file was provided by Udacity for the purpose of this project_)
 
 ## Getting started
 _Note that this code requires a Python installation (you can download Python [here](https://www.python.org/downloads/))_
